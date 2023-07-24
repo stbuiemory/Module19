@@ -52,9 +52,7 @@ Please check back at a later time.
 
 ## 🤝 Contributors
 
-```sh
-Starter code provided by https://github.com/coding-boot-camp/cautious-meme.git
-```
+Starter code provided by [Coding Bootcamp](https://github.com/coding-boot-camp/cautious-meme)
 
 ## 📝 License
 
